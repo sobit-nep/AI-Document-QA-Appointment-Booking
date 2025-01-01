@@ -22,6 +22,12 @@ A powerful Streamlit application that combines PDF document chat capabilities wi
   - Real-time processing feedback
   - Error handling and user guidance
   - Seamless integration of both chatbot and booking features
+ 
+
+
+https://github.com/user-attachments/assets/e228592e-6161-440d-8776-c787e2bd13d2
+
+
 
 ## 🚀 Installation
 
