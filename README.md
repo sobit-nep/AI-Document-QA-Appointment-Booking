@@ -84,7 +84,7 @@ streamlit run app.py
 ## 🏗️ Project Structure
 
 ```
-pdf-chatbot-appointment/
+AI-Document-QA-Appointment-Booking/
 ├── app.py                 # Main application file
 ├── .env                   # Environment variables
 ├── appointments.json      # Stored appointments
