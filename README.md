@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/e228592e-6161-440d-8776-c787e2bd13d2
 1. Clone the repository:
 ```bash
 git clone https://github.com/sobit-nep/AI-Document-QA-Appointment-Booking.git
-cd pdf-chatbot-appointment
+cd AI-Document-QA-Appointment-Booking
 ```
 
 2. Create a virtual environment (recommended):
